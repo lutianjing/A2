@@ -1,4 +1,4 @@
-day and time	,	radiation_surface
+day_and_time	,	radiation_surface
 2019/1/1 0:00	,	156.637
 2019/1/1 1:00	,	278.811
 2019/1/1 2:00	,	359.663
